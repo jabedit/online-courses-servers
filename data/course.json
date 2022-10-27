@@ -1,0 +1,130 @@
+[
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "title": "Learn Figma: User Interface Design Essentials - UI/UX Design",
+    "author": {
+      "name": "Alison Dawn",
+      "thumnailImg": "https://transvelo.github.io/skola-html/5.1/assets/img/products/product-16.jpg"
+    },
+    "category_id": "01",
+    "requrement": "We do not require any previous experience or pre-defined skills to take this course.",
+    "description": "Do you want to become a UI/UX designer but you don't know where to start? This course will allow you to develop your user interface design skills and you can add UI designer to your CV and start getting clients for your skills.Hi everyone. I'm Arash and I'm a UI/UX designer. In this course, I will help you learn and master Figma app comprehensively from scratch. Figma is an innovative and brilliant tool for User Interface design. It's used by everyone from entrepreneurs and start-ups to Apple, Airbnb, Facebook, etc.",
+    "courseImg": "https://transvelo.github.io/skola-html/5.1/assets/img/products/product-2.jpg",
+    "lecture": 148,
+    "section": 78,
+    "duration": "60h 42m total length",
+    "price": 32,
+    "level" : "beginner",
+    "rating" : "4.6 (43)"
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+    "title": "The Complete JavaScript Course 2022: From Zero to Expert!",
+    "author": {
+      "name": "Forhad  R",
+      "thumnailImg": "https://live.staticflickr.com/2539/4085464681_3dd30eb421_z.jpg"
+    },
+
+    "category_id": "02",
+    "requrement": "We do not require any previous experience or pre-defined skills to take this course.",
+    "courseImg": "https://transvelo.github.io/skola-html/5.1/assets/img/products/product-15.jpg",
+    "description": "Why am I the right JavaScript teacher for you?My name is Jonas, I'm an experienced web developer and designer. I have been teaching this bestselling course since 2016 to over 400,000 developers, always listening to feedback and understanding exactly how students actually learn.Recently, I took all my teaching experience to build this new and greatly improved JavaScript course. It's now the best and most in-depth JavaScript course that you will find on Udemy (and maybe the entire internet).",
+    "lecture": 148,
+    "section": 78,
+    "duration": "60h 42m total length",
+    "price": 25,
+    "level" : "Intermediate",
+    "rating" : "5 (78)"
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71011",
+    "title": "Learn Python: The Complete Python Programming Course",
+    "author": {
+      "name": "Vishal R",
+      "thumnailImg": "https://i.pinimg.com/originals/bc/6e/01/bc6e01f7267838a301d66e2929068cc5.jpg"
+    },
+    "category_id": "03",
+    "requrement": "Macintosh (OSX)/ Windows(Vista and higher) Machine, Internet Connection",
+    "courseImg": "https://www.freecodecamp.org/news/content/images/2022/02/Banner-10.png",
+    "description": "Do you want to become a programmer? Do you want to learn how to create games, automate your browser, visualize data, and much more?If you’re looking to learn Python for the very first time or need a quick brush-up, this is the course for you!. Python has rapidly become one of the most popular programming languages around the world. Compared to other languages such as Java or C++, Python consistently outranks and outperforms these languages in demand from businesses and job availability. The average Python developer makes over $100,000 - this number is only going to grow in the coming years.The best part? Python is one of the easiest coding languages to learn right now. It doesn’t matter if you have no programming experience or are unfamiliar with the syntax of Python. By the time you finish this course, you'll be an absolute pro at programming!",
+    "lecture": 146,
+    "section": 15,
+    "duration": "14h 42m total length",
+    "price": 45,
+    "level" : "Intermediate",
+    "rating" : "4.8 (70)"
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71012",
+    "title": "The Complete 2020 Fullstack Web Developer Course",
+    "author": {
+      "name": "Dennis W",
+      "thumnailImg": "https://img-c.udemycdn.com/user/200_H/6602338_9b50.jpg"
+    },
+    "category": "02",
+    "requrement": "Macintosh (OSX)/ Windows(Vista and higher) Machine, Internet Connection",
+    "courseImg": "https://teammeta.eu/wp-content/uploads/2020/07/developer-768x432.jpg",
+    "description": "This was the first Complete Web Development course on Udemy. It's extremely comprehensive and I explain EVERYTHING you need to know, step by step. There's a reason why there are so many Complete Web Development courses on Udemy today -- they took what worked and made spin off courses.",
+    "lecture": 200,
+    "section": 70,
+    "duration": "20h 55m total length",
+    "price": 33,
+    "level" : "beginner",
+    "rating" : "4.6 (14)"
+  },
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f9",
+    "title": "Digital Marketing: How to Generate Sales Leads",
+    "author": {
+      "name": "joglu rabik ",
+      "thumnailImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwf58e36vutYCdbEE1ho6EkJcz-tMZ8pUUxiQWHTiRRySXj0nXY7UQG7X-yzF8iCpjTpk&usqp=CAU"
+    },
+    "category_id": "04",
+    "requrement": "Macintosh (OSX)/ Windows(Vista and higher) Machine, Internet Connection",
+    "courseImg": "https://img.freepik.com/free-vector/digital-marketing-landing-page_33099-1726.jpg?w=2000",
+    "description": "Building a lead generation sales funnel is hard work and takes time. It's especially difficult if you don't have clarity. But a plan changes that Just the action of writing the step-by-step plan will give you focus and will make digital marketing a substantially easier beast to tame. In the last 12 months, Newedge has secured nearly £500,000 of revenue by following this plan, with a £0 spend on advertising",
+    "lecture": 200,
+    "section": 70,
+    "duration": "20h 55m total length",
+    "price": 20,
+    "level" : "Expert",
+    "rating" : "4.9 (85)"
+  },
+  {
+    "_id": "11468ed61aee84de492a8b04158a22467",
+    "title": "Build a Website using React",
+    "author": {
+      "name": "Ratul hasan",
+      "thumnailImg": "https://i.pinimg.com/474x/18/af/35/18af351094a7337c8aec6f6b27c8aa14.jpg"
+    },
+    "category_id": "02",
+    "requrement": "Macintosh (OSX)/ Windows(Vista and higher) Machine, Internet Connection",
+    "courseImg": "https://geeks.madrasthemes.com/wp-content/uploads/2021/09/course-react.jpg",
+    "description":"By the end of this project, you will use React and React Router Dom to Make a Single Page Application (SPA) from an existing website.Traditionally, a web application requires a trip to the server to fetch a web page when a user clicks on a link. A React Single Page Application sends the complete web application to a browser where the individual components are rendered into navigable web pages using the React Router DOM package.Note: This course works best for learners who are based in the North America region. We’re currently working on providing the same experience in other regions.",
+    "lecture": 250,
+    "section": 70,
+    "duration": "21h 55m total length",
+    "price": 30,
+    "level" : "Expert",
+    "rating" : "4.6 (11)"
+  },
+  {
+    "_id": "11468ed61aee84de492a8b04158a22495",
+    "title": "Graphic Design Bootcamp: Photoshop, Illustrator, InDesign",
+    "author": {
+      "name": "Runa ahmed",
+      "thumnailImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZZXFYGDHEf6xyDebhaedoK3oW0FrMPLbXYEL6DMfJ&s"
+    },
+    "category_id": "05",
+    "requrement": "Macintosh (OSX)/ Windows(Vista and higher) Machine, Internet Connection",
+    "courseImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsUCobRY_eC_aJ8enbqpurTgEr8Yq42vqIKkxjZVDraw7u4ONX_7BvNYzEUQ8QXICeFF4&usqp=CAU",
+    "description":"UPDATED! Now featuring over 15 hours of on-demand content, including getting your design portfolio up and running online using  Adobe Portfolio and Behance!. Welcome to the Graphic Design Bootcamp! This course has over 6,000 5-star reviews, and has been a Udemy bestseller for more than a year!You’re in the right place! This course is for anyone who is interested in becoming a graphic designer, and especially geared towards beginners. When you enroll in this course, you will have access to over 15 hours of on-demand content, as well as the opportunity to join a private Facebook group with over 13,000 members",
+    "lecture": 60,
+    "section": 30,
+    "duration": "25h 59m total length",
+    "price": 15,
+    "level" : "Expert",
+    "rating" : "4.6 (22)"
+  }
+  
+]
